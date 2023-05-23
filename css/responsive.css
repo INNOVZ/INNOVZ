@@ -1,0 +1,253 @@
+	
+/*
+================================================
+21. Media Quries 
+================================================
+*/
+
+@media screen and (min-width: 620px) {
+	html{
+    font-size: 18px;
+    }
+  }
+
+
+@media screen and (min-width: 900px) {
+	html{
+    font-size: 20px;
+    }
+  }
+    
+@media screen and (min-width: 1200px) {
+  	html{
+    font-size: 24px;
+   }
+ }
+
+
+
+@media (min-width: 768px) and (max-width: 1200px) {
+.navigation {
+	padding: 0;
+}
+.logo {
+  float: left;
+  display: none;
+}
+.menu-bg .logo {
+  padding-top: 20px;
+}
+.navbar-toggle {
+  padding-top: 15px;
+  margin-right: 0;
+  margin-top: -34px;
+}
+.navbar-default .navbar-nav li a {
+  font-size: 17px;
+  padding: 23px 10px;
+  text-align: center;
+}
+.navbar-collapse {
+  margin: 6px 0 0;
+}
+.navigation .navbar-collapse {
+	padding: 0;
+}
+.navbar {
+  margin-top:0px;
+  padding-top: 0px;
+}
+.sidebar-gallery li{
+  padding-top: 29px;
+  width: 14%;
+}
+}
+@media (max-width: 767px) {
+section h2 {
+	font-size: 25px;
+}
+  .logo {
+     display: block;
+     width: 250px;
+     max-width: 50%;
+     height: auto;
+     margin: 0 auto;
+     padding-top: 25px;
+     padding-left: 25px;
+  }
+
+	.navigation{
+	display:none;
+	}
+	.mobile-nav{
+  display:block;
+  padding-top: 5px;
+  padding-right: 10px;
+	}
+	.navbar-header{
+	display:none;
+	}
+.header-top-area .slicknav_menu{
+    background: transparent;
+    padding: 15px  0px 0px 0px;
+}
+.header-top-area .slicknav_nav {
+    background: #333;
+    margin-top: 10px;
+    padding: 10px;
+}
+.header-top-area .slicknav_btn{
+background-color: transparent;
+}
+.header-top-area .slicknav_nav a:hover, .header-top-area .slicknav_nav a:focus, .header-top-area .slicknav_nav a:active{
+color:#FFFFFF;
+}
+.header-top-area .slicknav_nav a:hover{
+background-color:#000;
+}
+.header-top-area .slicknav_nav .slicknav_row{
+padding:8px 10px;
+}
+.header-top-area .slicknav_nav a{
+padding:8px 10px;
+}
+.header-top-area .slicknav_nav .slicknav_arrow{
+float:right;
+}
+.logo{
+float:left;
+}
+.banner-text .font-55 {
+    font-size: 50px !important;
+	line-height:50px;
+}
+.banner-text h3 {
+	line-height:30px;
+}
+.sidebar-gallery li{
+width: 14%;
+}
+.cd-intro .font-28{
+font-size:21px !important;
+}
+.tb-about-2-content h1{
+font-size:25px;
+}
+.slide-text .font-70{
+line-height:70px;
+}
+.color-bg-b .pull-right{
+float:none !important;
+}
+.features-colmun{
+margin-bottom:10px;
+}
+.bg-color h2{
+line-height:40px;
+}
+}	
+
+
+/*
+================================================
+9. RESPONSIVE
+================================================
+*/
+
+@media (min-width: 300px) and (max-width: 768px) {
+  .home-slide {
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    z-index: 1;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .sliderbox{
+    width:100%;
+    height: auto;
+    margin:auto;
+    margin-top: 5vh;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    color: #000;
+  }
+  .video-contains{
+    border-radius:15px;
+    width: 100%;
+    float: right;
+  }
+  .text-container{
+    width:auto;
+    margin-top: 25px;
+    z-index: 10;
+    width: 100%;
+  }
+  .feature-card{
+    /* background-color: #222222; */
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px 15px;
+  }
+  .map{
+    position: relative;
+    background: url(../images//world.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 35vh;
+  }
+  
+.blink1{
+  border: #9381ff solid 2px;
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  top:calc(65% - 3em);
+  left:calc(32% - 3em);
+  animation: blinks 3s infinite;
+}
+.blink3{
+  border: #ff92c2 solid 2px;
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  top:calc(40%);
+  left:calc(50% - 0.2em);
+  animation: blinks 3s infinite;
+}
+.blink2{
+  border:  #6bbaec solid 2px;
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  top:calc(50% + 0.1em);
+  right:calc(30%);
+  animation: blinks 3s infinite;
+}
+.boxx{
+  margin: auto;
+  margin-top:0px;
+  width:100%;
+}
+.stack-flex{
+  display:flex;
+  flex-direction: column-reverse;
+}
+
+
+
+
+
+
+
+
+
+}

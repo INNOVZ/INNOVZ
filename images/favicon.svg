@@ -1,0 +1,18 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26.89 26.64">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 0.5px;
+      }
+    </style>
+  </defs>
+  <title>favicon</title>
+  <polygon points="22.56 8.28 14.35 22.56 9.55 14.23 5.65 14.23 12.82 26.64 15.86 26.64 26.46 8.28 22.56 8.28"/>
+  <circle cx="2.13" cy="2.13" r="2.13"/>
+  <circle cx="5.65" cy="8.4" r="2.13"/>
+  <circle cx="24.77" cy="2.22" r="2.13"/>
+  <line class="cls-1" x1="2.29" y1="2.22" x2="24.77" y2="2.22"/>
+  <line class="cls-1" x1="1.45" y1="0.86" x2="4.84" y2="7.2"/>
+</svg>

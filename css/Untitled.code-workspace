@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "/Users/Jineesh/Desktop/gil/theme/videos"
+		},
+		{
+			"path": "/Users/Jineesh/Desktop/gil/theme/images"
+		},
+		{
+			"path": "/Users/Jineesh/Desktop/gil/theme/assets"
+		},
+		{
+			"path": "/Users/Jineesh/Desktop/gil/theme/js"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "videos"
+	}
+}

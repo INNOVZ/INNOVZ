@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 711 500" style="enable-background:new 0 0 711 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{font-family:'Orbitron-Bold';}
+	.st2{font-size:79.2867px;}
+	.st3{fill:none;stroke:#FFFFFF;stroke-width:6;stroke-miterlimit:10;}
+	.st4{font-size:32px;}
+	.st5{font-size:79.287px;}
+</style>
+<g id="Layer_4">
+	<g>
+		<text transform="matrix(1.0482 0 0 1 291.7676 62.7632)" class="st0 st1 st2">Z</text>
+	</g>
+</g>
+<g id="Layer_3">
+	<polygon class="st3" points="257.5,58.9 285.4,7.8 229.6,7.8 	"/>
+	<g>
+		<text transform="matrix(1.0463 0 0 1 244.5144 42.9692)" class="st1 st4">v</text>
+		<text transform="matrix(1.0463 0 0 1 244.5144 42.9692)" class="st0 st1 st4">v</text>
+	</g>
+	<ellipse class="st0" cx="243" cy="15" rx="1.4" ry="1.6"/>
+	<ellipse class="st0" cx="246.2" cy="21.5" rx="1.4" ry="1.6"/>
+	<ellipse class="st0" cx="273.2" cy="15" rx="1.4" ry="1.6"/>
+	<rect x="243.3" y="14.7" class="st0" width="29" height="0.7"/>
+	<polygon class="st0" points="246.4,20.9 245.8,21.2 243.1,16.2 243.6,15.9 	"/>
+</g>
+<g id="Layer_1">
+	<polygon class="st0" points="18.9,18.5 18.9,62.8 8,62.8 8,12.7 	"/>
+	<polygon class="st0" points="18.9,5.6 18.9,12.1 8,6 8,5.6 	"/>
+	<g>
+		<text transform="matrix(1.0344 0 0 1 21.6465 62.7637)" class="st0 st1 st5">N</text>
+	</g>
+	<g>
+		<text transform="matrix(1.0344 0 0 1 87.725 62.7637)" class="st0 st1 st5">N</text>
+	</g>
+	<g>
+		<path class="st0" d="M181.4,13.5h29.4v28.8l9.7,9.5V13.3c0-4.1-4.2-7.4-9.5-7.4h-37.5L181.4,13.5z"/>
+		<path class="st0" d="M210.8,54.7v0.3h-42.5V13.5h0.4l-6.3-6.2c-2.3,1.4-3.8,3.5-3.8,6v42c0,4.1,4.2,7.4,9.5,7.4h43
+			c2.3,0,4.5-0.7,6.1-1.8L210.8,54.7z"/>
+	</g>
+	<polygon class="st0" points="268.5,28.1 265.1,25.4 265.5,24.8 262.8,22.7 271.7,22.7 	"/>
+</g>
+<g id="Layer_2">
+</g>
+</svg>
